@@ -6,3 +6,6 @@
 .mono/
 *.import
 .import/
+git add .gitignore
+git commit -m "Add Godot gitignore"
+git push
